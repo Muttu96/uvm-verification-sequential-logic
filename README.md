@@ -1,6 +1,3 @@
-# uvm-verification-sequential-logic
-UVM-Based Verification of Sequential Logic Circuits — Includes D Flip-Flop and Mod-12 Up-Down Counter verification environments with constrained random stimulus, functional coverage, and assertions
-
 # 🎯 UVM-Based Verification of Sequential Logic Circuits
 
 This repository contains the UVM-based verification environments for two fundamental sequential circuits:
@@ -41,4 +38,4 @@ This project enhanced understanding of sequential logic behavior and the constru
 
 📍 *Author:* **Muttu B Naik**  
 📧 *Email:* muttunaik5096@gmail.com  
-🔗 *LinkedIn:* [linkedin.com/in/muttu-naik](https://linkedin.com/in/muttu-naik)
+🔗 *LinkedIn:* https://www.linkedin.com/in/muttunaik5096
